@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"家北","order":10,"parentId":9,"scrollX":809,"scrollY":503},
 {"id":2,"expanded":false,"name":"家旁边","order":9,"parentId":9,"scrollX":817,"scrollY":457},
-{"id":3,"expanded":true,"name":"新手村中心","order":1,"parentId":0,"scrollX":1111,"scrollY":847.5},
+{"id":3,"expanded":true,"name":"新手村中心","order":1,"parentId":0,"scrollX":809,"scrollY":1167.5},
 {"id":4,"expanded":false,"name":"酒馆","order":2,"parentId":3,"scrollX":817,"scrollY":452.5},
 {"id":5,"expanded":false,"name":"中心内部","order":3,"parentId":3,"scrollX":817,"scrollY":452.5},
 {"id":6,"expanded":true,"name":"中心二楼","order":4,"parentId":5,"scrollX":817,"scrollY":457},
